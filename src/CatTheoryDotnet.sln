@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CatTheoryDotnetCore", "CatTheoryDotnetCore\CatTheoryDotnetCore.csproj", "{B3E5DB33-10E5-4E73-B1A6-B92666B93445}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestConsoleApp", "TestConsoleApp\TestConsoleApp.csproj", "{7FE2B34A-7D4B-442B-AA56-C49F190E8A86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3E5DB33-10E5-4E73-B1A6-B92666B93445}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3E5DB33-10E5-4E73-B1A6-B92666B93445}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3E5DB33-10E5-4E73-B1A6-B92666B93445}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3E5DB33-10E5-4E73-B1A6-B92666B93445}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FE2B34A-7D4B-442B-AA56-C49F190E8A86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FE2B34A-7D4B-442B-AA56-C49F190E8A86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FE2B34A-7D4B-442B-AA56-C49F190E8A86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FE2B34A-7D4B-442B-AA56-C49F190E8A86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {452E3D65-4E3D-445E-AEDD-EDEE6CF88F9E}
+	EndGlobalSection
+EndGlobal
